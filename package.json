@@ -1,0 +1,42 @@
+{
+    "author": "nategraf1@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "wrastle",
+    "pebble": {
+        "capabilities": [
+            ""
+        ],
+        "displayName": "Wrastle",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "SCORE_L_KEY",
+            "SCORE_R_KEY",
+            "COUNT_KEY",
+            "PATH_KEY"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/Arm Wrestling Pebble.png",
+                    "menuIcon": true,
+                    "name": "WRASTLE_ICON",
+                    "targetPlatforms": null,
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "4112524a-ec99-48a3-bb2d-acdb341519cb",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
