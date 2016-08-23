@@ -19,7 +19,7 @@
         "resources": {
             "media": [
                 {
-                    "file": "images/Arm Wrestling Pebble.png",
+                    "file": "images/arm_wrestling.png",
                     "menuIcon": true,
                     "name": "WRASTLE_ICON",
                     "targetPlatforms": null,
